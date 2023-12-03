@@ -1,6 +1,6 @@
 # Smart-Parking-Lot-using-Digital-Twin
 
-#Step 1: Sensor Selection and Installation
+# Step 1: Sensor Selection and Installation
 
 Take ultrasonic HC-SR04 for distance calculation.
 Strategically plan sensor placement for optimal coverage.
@@ -8,7 +8,7 @@ Precisely calibrate sensor installation for accurate distance measurements.
 
 
 
-Step 2: Data Collection and Integration
+# Step 2: Data Collection and Integration
 
 Run 'smartpl.ino' in Arduino IDE and continuously collect real-time data from installed sensors.
 Edit the secret.h file with your wifi credentials and AWS service credentials.
@@ -16,7 +16,7 @@ Establish protocols for ongoing monitoring to ensure system responsiveness.
 
 
 
-Step 3: AWS IoT Core Integration
+# Step 3: AWS IoT Core Integration
 
 Set up AWS IoT Core to manage and communicate with IoT devices securely.
 Create a thing, policy, and view incoming real-time data through MQTT Test Client.
