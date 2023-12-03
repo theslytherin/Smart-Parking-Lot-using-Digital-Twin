@@ -23,21 +23,21 @@ Create a thing, policy, and view incoming real-time data through MQTT Test Clien
 
 
 
-Step 4: Data Transmission to AWS IoT Core
+# Step 4: Data Transmission to AWS IoT Core
 
 Publish data to AWS IoT Core using MQTT topics.
 View real-time data transmission in the MQTT Test Client.
 
 
 
-Step 5: AWS Sitewise Integration
+# Step 5: AWS Sitewise Integration
 
 Set up message routing rules to transmit data from AWS IoT to AWS IoT Sitewise.
 Create models, assets, and link them with IoT Core data in AWS Sitewise.
 
 
 
-Step 6: Model Creation
+# Step 6: Model Creation
 
 Use Blender to create a 3D model of the parking lot.
 Import the model as .glb into AWS TwinMaker and establish rules based on real-time data.
@@ -45,7 +45,7 @@ Import the model as .glb into AWS TwinMaker and establish rules based on real-ti
 
 
 
-Step 7: Visualization in Grafana
+# Step 7: Visualization in Grafana
 
 Create a workspace in Grafana and add TwinMaker as the data source.
 Visualize real-time data in the Grafana dashboard.
