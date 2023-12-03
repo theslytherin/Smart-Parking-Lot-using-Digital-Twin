@@ -1,6 +1,6 @@
 # Smart-Parking-Lot-using-Digital-Twin
 
-Step 1: Sensor Selection and Installation
+#Step 1: Sensor Selection and Installation
 
 Take ultrasonic HC-SR04 for distance calculation.
 Strategically plan sensor placement for optimal coverage.
